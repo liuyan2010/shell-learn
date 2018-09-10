@@ -8,3 +8,5 @@ test001.sh
 #计算某个整数N的阶乘 n!
 test002.sh
 
+#模拟函数 sacnf
+test003.sh
